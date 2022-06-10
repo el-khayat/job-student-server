@@ -1,0 +1,5 @@
+// import path from 'path';
+// export default  {
+//     config : path.resolve(__dirname,'config','database.js'),
+//     'migration-path': path.resolve(__dirname,'config','migration')
+// };
